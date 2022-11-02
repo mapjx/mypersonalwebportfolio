@@ -53,6 +53,7 @@ ul
     padding: 30px;
     height: 100%;
     border-right: 1px solid var(--bg-black-50);
+    border-right: 1px solid var(--bg-black-50);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -169,5 +170,5 @@ ul
 }
 .aside .nav li a i
 {
-
+margin-right: 15px;
 }
