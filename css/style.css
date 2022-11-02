@@ -114,7 +114,7 @@ ul
     top: 20px;
     border-radius: 5px;
     background-color: var(--bg-black-100);
-    display: none;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
