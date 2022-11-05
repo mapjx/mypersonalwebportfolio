@@ -256,6 +256,17 @@ h3.my-profession
     text-align: center;
     position: relative;
 }
+.home-img:: ::after
+{
+    content: '';
+    position: relative;
+    height: 80px;
+    width: 80px;
+    border-bottom: 10px solid var(--skin-color);
+    border-right: 10px solid var(--skin-color);
+    right: 20px;
+    bottom: -40px;
+}
 .home .home-img img
 {
     height: 400px;
