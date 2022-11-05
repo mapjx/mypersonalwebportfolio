@@ -256,7 +256,7 @@ h3.my-profession
     text-align: center;
     position: relative;
 }
-.home-img:: ::after
+.home-img::after
 {
     content: '';
     position: relative;
