@@ -259,7 +259,7 @@ h3.my-profession
 .home-img::after
 {
     content: '';
-    position: relative;
+    position: absolute;
     height: 80px;
     width: 80px;
     border-bottom: 10px solid var(--skin-color);
