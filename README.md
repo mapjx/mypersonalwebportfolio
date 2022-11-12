@@ -1,6 +1,3 @@
 # mypersonalwebportfolio
-Creando mi portaflio web personal con algunas tecnologías ire actualizando lo que voy usando en este proyecto.
+Creating my personal web portfolio with some technologies, I will update what I am using in this project.
 
-Seguire trabajando en este proyecto no en unos dias porque estado ocupado :(
-
-Bueno continuare... Estado full ocupado :(
